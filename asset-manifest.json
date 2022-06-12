@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ecgc/static/css/main.1c06127d.chunk.css",
+    "main.js": "/ecgc/static/js/main.113d2530.chunk.js",
+    "main.js.map": "/ecgc/static/js/main.113d2530.chunk.js.map",
+    "runtime-main.js": "/ecgc/static/js/runtime-main.5089dc05.js",
+    "runtime-main.js.map": "/ecgc/static/js/runtime-main.5089dc05.js.map",
+    "static/js/2.ca1750db.chunk.js": "/ecgc/static/js/2.ca1750db.chunk.js",
+    "static/js/2.ca1750db.chunk.js.map": "/ecgc/static/js/2.ca1750db.chunk.js.map",
+    "index.html": "/ecgc/index.html",
+    "static/css/main.1c06127d.chunk.css.map": "/ecgc/static/css/main.1c06127d.chunk.css.map",
+    "static/js/2.ca1750db.chunk.js.LICENSE.txt": "/ecgc/static/js/2.ca1750db.chunk.js.LICENSE.txt",
+    "static/js/main.113d2530.chunk.js.LICENSE.txt": "/ecgc/static/js/main.113d2530.chunk.js.LICENSE.txt",
+    "static/media/cover_thumbnail.jpg": "/ecgc/static/media/cover_thumbnail.242e3eda.jpg",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/ecgc/static/media/square5.16283001.png",
+    "static/media/nucleo-icons.css": "/ecgc/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path1.png": "/ecgc/static/media/path1.a0d20b60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5089dc05.js",
+    "static/js/2.ca1750db.chunk.js",
+    "static/css/main.1c06127d.chunk.css",
+    "static/js/main.113d2530.chunk.js"
+  ]
+}
